@@ -1,2 +1,2 @@
 # o365-board-change
-script pour supprimer le fichier pour Office 365 apres un changement de carte mère et redémarer le pc apres
+script pour supprimer le dossier pour Office 365 apres un changement de carte mère et redémarer le pc apres
